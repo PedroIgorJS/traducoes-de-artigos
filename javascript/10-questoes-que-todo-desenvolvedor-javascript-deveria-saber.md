@@ -13,7 +13,7 @@ Como Marcus Lemonis diz, foco nos 3 P's:
 
 > Pessoas, Processos, Produto
 
-[The profit Principles With Marcus Lemonis | The Profit](https://www.youtube.com/embed/37rMZSA6oLk) (Video).
+[The profit Principles With Marcus Lemonis | The Profit](https://www.youtube.com/embed/37rMZSA6oLk) **(*Video*)**.
 
 Suas primeiras contratações devem ser sólidas, com candidatos sêniores. Pessoas que podem contratar e mentorar outros desenvolvedores, e ajudar desenvolvedores pleno e júnior que você eventualmente irá contratar durante o caminho.
 
@@ -97,4 +97,7 @@ Herança de protótipo: as instâncias herdam diretamente dos outros objetos. As
 * [The Two Pillars of JavaScript Part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)— Prototypal OO.
 * [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a).
 
-[Classical Inheritance is Obsolete - How to Think in Prototypal OO](https://vimeo.com/69255635) (Video).
+[Classical Inheritance is Obsolete - How to Think in Prototypal OO](https://vimeo.com/69255635) **(*Video*)**.
+
+### 4. Quais são os pros e os contras da programação funciona vs programação orientada a objetos?
+
